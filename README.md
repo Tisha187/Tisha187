@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tisha</h1>
 
 <h3 align="left">About Me ⚡</h3>
-<img align = "right" alt = "Coding" width ="300" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVHIdyq3O5WaY3NqPkRFlQBGGsmZ5iFLRcXp1cVKelW1oluXvJhyfACuyhwmLnN7AtOiY&usqp=CAU">
+<!-- <img align = "right" alt = "Coding" width ="300" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVHIdyq3O5WaY3NqPkRFlQBGGsmZ5iFLRcXp1cVKelW1oluXvJhyfACuyhwmLnN7AtOiY&usqp=CAU"> -->
 
 - 🔭 I’m currently working on **Android Development and Machine Learning**
 
