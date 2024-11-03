@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **ML and Android related Projects**
 
-- 💬 Ask me about **Android Development**
-
 - 📫 How to reach me **tishayadav07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
