@@ -1,24 +1,51 @@
+<h1 align="center">Hello, I'm Tisha</h1>
 
-<h1 align="center">Hi 👋, I'm Tisha</h1>
-
-<h3 align="left">About Me ⚡</h3>
-<!-- <img align = "right" alt = "Coding" width ="300" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVHIdyq3O5WaY3NqPkRFlQBGGsmZ5iFLRcXp1cVKelW1oluXvJhyfACuyhwmLnN7AtOiY&usqp=CAU"> -->
-
-- 🔭 I’m currently working on **Android Development and Machine Learning**
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 👯 I’m looking to collaborate on **ML and Android related Projects**
-
-- 📫 How to reach me **tishayadav07@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tisha-yadav-000186253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tisha-yadav-000186253/" height="30" width="40" /></a>
-<a href="https://kaggle.com/tisha007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tisha007" height="30" width="40" /></a>
+<p align="center">
+  Full-stack engineer (.NET, Angular, Azure) building agentic AI applications with Semantic Kernel<br>
+  Digital Specialist Engineer @ Infosys | B.Tech CSE @ IIIT Vadodara
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tisha187&" alt="tisha187" /></p>
+### About me
+
+I'm a software engineer who likes building complete products, from the Angular interface and the ASP.NET Core API to the database, the cloud deployment and the AI layer on top.
+
+My work sits where full-stack engineering meets agentic AI. I build applications where AI agents don't just chat but reason over data, call tools, and hand work between specialised agents, using **Semantic Kernel**, **Azure OpenAI**, **Gemini** and **RAG**. I'm also comfortable in **Python** (FastAPI services, time-series forecasting) and ship my work with **Docker** and **Azure**.
+
+### What I'm building
+
+- **[InsightFlow AI](https://github.com/Tisha187/InsightFloww)** ([live demo](https://insightflow-frontend-f2sk.onrender.com/))
+  Sales analytics and forecasting platform: Angular, ASP.NET Core (.NET 10), EF Core, Azure SQL, a Python FastAPI forecasting service, and a Semantic Kernel AI analyst.
+- **[Hire AI](https://github.com/Tisha187/YOUR-HIREAI-REPO)**
+  Multi-agent recruitment platform using Semantic Kernel, RAG and vector memory, with an orchestrator and specialist agents.
+
+*The live demo runs on free hosting, so the first load can take up to a minute.*
+
+### Tech stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40"/>
+</p>
+
+**AI:** Semantic Kernel, Azure OpenAI, Microsoft Foundry, Copilot Studio, Gemini, RAG, multi-agent systems
+
+### Currently working on
+
+- Strengthening data structures and algorithms (pattern-based practice)
+- Low-level design and system design in C#
+- Finishing the AI Analyst workflow in InsightFlow AI
+
+### Connect with me
+
+[LinkedIn](https://linkedin.com/in/tisha-yadav-000186253/) | [LeetCode](https://leetcode.com/u/Tisha187/) | [Kaggle](https://kaggle.com/tisha007) | tishayadav07@gmail.com
