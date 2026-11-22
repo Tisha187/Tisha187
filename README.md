@@ -48,4 +48,4 @@ My work sits where full-stack engineering meets agentic AI. I build applications
 
 ### Connect with me
 
-[LinkedIn](https://linkedin.com/in/tisha-yadav-000186253/) | [LeetCode](https://leetcode.com/u/Tisha187/) | [Kaggle](https://kaggle.com/tisha007) | tishayadav07@gmail.com
+[LinkedIn](https://linkedin.com/in/tisha-yadav-000186253/) | [LeetCode](https://leetcode.com/u/Tisha_yadav_07/) | [Kaggle](https://kaggle.com/tisha007) | tishayadav07@gmail.com
